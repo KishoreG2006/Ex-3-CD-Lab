@@ -40,10 +40,9 @@ To write a yacc program to recognize a valid arithmetic expression that uses ope
 
 
 
+     
 
 
-
-# PROGRAM 2:
 
 
 
